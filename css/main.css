@@ -11,3 +11,9 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  font-size: 1.125rem;
+  color: #fff;
+  padding: .4em;
+}
