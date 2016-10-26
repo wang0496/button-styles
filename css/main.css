@@ -22,7 +22,7 @@ div {
   border: 0;
   color: #fff;
   text-decoration: none;
-  font-size: 1.125rem;
+  font size: 1.125rem;
 }
 
 .btn-subtle {
@@ -32,7 +32,7 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: #000;
   border-style: solid;
   border-width: 3px;
@@ -41,7 +41,7 @@ div {
 
 .btn-warning {
   background-color: #f33;
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: #fff;
   border-style: none;
   border-width: 1px;
@@ -53,7 +53,7 @@ div {
 
 .btn-subtle-small {
   background-color: #ccc;
-  font-size: 1.125rem;
+  font-size: .875rem;
   color: #fff;
   padding: .55em;
   border-radius: 8px;
@@ -63,7 +63,7 @@ div {
 
 .btn-ghost-small {
   background-color: #fff;
-  font-size: 1.125rem;
+  font-size: .875rem;
   color: #000;
   padding: .45em;
   border-radius: 8px;
@@ -73,7 +73,7 @@ div {
 
 .btn-warning-small {
   background-color: #f33;
-  font-size: 1.125rem;
+  font-size: .875rem;
   color: #fff;
   padding: .55em;
   border-radius: 8px;
@@ -82,13 +82,13 @@ div {
 }
 
 .btn-big {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
 
 }
 
 .btn-subtle-big {
   background-color: #ccc;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   color: #fff;
   padding: .45em;
   border-radius: 8px;
@@ -97,7 +97,7 @@ div {
 
 .btn-ghost-big {
   background-color: #fff;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   color: #000;
   padding: .3em;
   border-radius: 8px;
@@ -108,9 +108,9 @@ div {
 .btn-warning-big {
 
   background-color: #f33;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   color: #fff;
-  padding: .45em;
+  padding: .48em;
   border-radius: 8px;
   border-style: none;
   border-width: 3px;
